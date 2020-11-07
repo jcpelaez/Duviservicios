@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "967626644772",
+    "firebase_url": "https://duviservicios-ea52b.firebaseio.com",
+    "project_id": "duviservicios-ea52b",
+    "storage_bucket": "duviservicios-ea52b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967626644772:android:63409beaf62c9135fb27b1",
+        "android_client_info": {
+          "package_name": "com.example.duviservicios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967626644772-he5jnvdctjg1ubrdviinmdf7gq7jdn1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.duviservicios",
+            "certificate_hash": "33c704ddd910976b2b6d09a30822f1d0e9f9427f"
+          }
+        },
+        {
+          "client_id": "967626644772-gmj6r5fp3mh2rpnafk5luvutm066r4vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjNWzFrjf8LBXD1lPJlomSkdDjIdtudjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967626644772-gmj6r5fp3mh2rpnafk5luvutm066r4vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967626644772:android:adad61ff98b05b67fb27b1",
+        "android_client_info": {
+          "package_name": "com.example.duviserviciosrepar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967626644772-lbf6utpjoida8nufp9us8eg73e4vtv1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.duviserviciosrepar",
+            "certificate_hash": "33c704ddd910976b2b6d09a30822f1d0e9f9427f"
+          }
+        },
+        {
+          "client_id": "967626644772-gmj6r5fp3mh2rpnafk5luvutm066r4vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjNWzFrjf8LBXD1lPJlomSkdDjIdtudjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967626644772-gmj6r5fp3mh2rpnafk5luvutm066r4vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967626644772:android:5b85ce25f4c54160fb27b1",
+        "android_client_info": {
+          "package_name": "com.example.duviserviciosserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967626644772-1l31t0uv550scrc4fs5kdsdlr0ht8lp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.duviserviciosserver",
+            "certificate_hash": "33c704ddd910976b2b6d09a30822f1d0e9f9427f"
+          }
+        },
+        {
+          "client_id": "967626644772-gmj6r5fp3mh2rpnafk5luvutm066r4vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjNWzFrjf8LBXD1lPJlomSkdDjIdtudjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967626644772-gmj6r5fp3mh2rpnafk5luvutm066r4vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

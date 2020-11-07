@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:background="@android:color/white">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/brandon_medium">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/brandon_medium"
+            android:id="@+id/edt_address"
+            android:hint="Ingrese su dirección">
+        </EditText>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:text="Metodo de pago"
+        android:id="@+id/txt_address_detail"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:fontFamily="@font/brandon_medium"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:layout_height="wrap_content">
+
+    </TextView>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/brandon_medium">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/brandon_medium"
+            android:id="@+id/edt_comment"
+            android:hint="Ingrese su comentarios">
+        </EditText>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:text="A donde llevar tu pedido?"
+        android:layout_width="match_parent"
+        android:fontFamily="@font/brandon_medium"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@color/dialog_header_color"
+        android:layout_height="wrap_content">
+
+    </TextView>
+
+    <RadioGroup
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <RadioButton
+            android:id="@+id/rdi_other_address"
+            android:text="Otra dirección"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:checked="true"
+            android:textColor="@color/dialog_text_color"
+            android:fontFamily="@font/brandon_medium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </RadioButton>
+
+        <RadioButton
+            android:id="@+id/rdi_ship_this_address"
+            android:text="Encontrar mi ubicación"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/dialog_text_color"
+            android:fontFamily="@font/brandon_medium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </RadioButton>
+    </RadioGroup>
+
+    <TextView
+        android:text="Metodo de pago"
+        android:fontFamily="@font/brandon_medium"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@color/dialog_header_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </TextView>
+
+    <RadioGroup
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rdi_cod"
+            android:text="Efectivo contra entrega"
+            android:checked="true"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/dialog_text_color"
+            android:fontFamily="@font/brandon_medium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </RadioButton>
+
+    </RadioGroup>
+
+
+</LinearLayout>

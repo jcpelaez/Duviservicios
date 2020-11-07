@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Duviservicios</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Julio Pelaez</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_editar">Editar perfil</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_restaurant">Restaurante</string>
+    <string name="menu_bebidas">Bebidas</string>
+    <string name="menu_farmacia">Farmacia</string>
+    <string name="menu_mercados">Mercados</string>
+    <string name="menu_transporte">Transporte</string>
+    <string name="menu_favor">Duvifavor</string>
+
+    <string name="action_search">Buscar</string>
+    <string name="menu_view_perfil">Editar perfil</string>
+    <string name="menu_view_orders">Ordenes</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_food_detail">Detalles de la comida</string>
+    <string name="menu_food_list">Listado de comidas</string>
+    <string name="menu_cart">Carrito</string>
+    <string name="menu_share">Compartir App</string>
+    <string name="menu_call">Llamar a central</string>
+    <string name="size">Tamaño</string>
+    <string name="add_on">Adición</string>
+    <string name="popular_categories">Categorias populares</string>
+    <string name="best_deal">Mejores comidas</string>
+    <string name="menu_category">Categorias</string>
+    <string name="menu_logout">Salir</string>
+    <string name="action_clear_cart">Vaciar canasta</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDJw3p5TsruJidssuMsLP3cMrBhMef6RFU</string>
+    <string name="title_activity_tracking_order">Map</string>
+
+</resources>
